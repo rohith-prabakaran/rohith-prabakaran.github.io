@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle:
+subtitle: "M.Sc. in Artificial Intelligence graduate from <a href='https://www.uva.nl/en'>Universiteit van Amsterdam</a>"
+
 
 profile:
   align: right
