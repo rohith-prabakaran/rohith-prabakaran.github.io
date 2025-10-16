@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Amsterdam, The Netherlands</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there 👋
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m an **AI researcher** who loves teaching machines to **predict, forecast, and make sense of messy real-world data** — from figuring out what shoppers will buy next week to making MRI scans run twice as fast (because no one enjoys lying still in a noisy metal tube).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- Soon, I’ll be starting my **PhD in AI** at the **[TRL Lab](https://trl-lab.github.io/)**, **[Centrum Wiskunde & Informatica (CWI)](https://www.cwi.nl/en/)**, in affiliation with the **[University of Amsterdam](https://www.uva.nl/en/)**. I’ll be working on `Foundation Models for Predictive Tabular Machine Learning` — helping AI finally understand the humble spreadsheet. (And no, your favourite LLM still can’t handle a CSV — try asking it for the average of a column.) -->
+
+I recently completed my **MSc in AI (Cum Laude)** at the [University of Amsterdam](https://www.uva.nl/en), focusing on machine learning, causality, computer vision, and time-series forecasting. During my time at **[WAIR](https://wair.ai/)**, I built forecasting systems that help fashion brands keep your favourite items in stock — using transformer models that **adapt on the fly** through `in-context learning`. Before that, I worked on **AI for medical imaging** and earned my **Bioengineering degree** from **[City University of Hong Kong](https://www.cityu.edu.hk/)**, where I first fell in love with AI.
+
+When I’m not debugging code or praying for my model to converge, you’ll find me **running along the Amstel**, **failing epically at bouldering**, or watching **Chelsea F.C.** ruin my weekend (again).
+
+If you’d like to **collaborate, chat about research**, or **share ideas**, reach out on any of my socials — and don’t worry, I promise I’m *a lot more professional than this bio sounds.* 😄
