@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "rspemmasani/rohith-prabakaran.github.io",
+    "data-repo": "rohith-prabakaran/rohith-prabakaran.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
