@@ -192,6 +192,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _posts/2020-09-28-twitter.md
 keep_files:
   - CNAME
   - .nojekyll
