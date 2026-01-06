@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "M.Sc. in Artificial Intelligence graduate from <a href='https://www.uva.nl/en'>Universiteit van Amsterdam</a>"
+subtitle: "PhD Candidate at <a href='https://www.cwi.nl/en/'>Centrum Wiskunde & Informatica (CWI)</a>"
 
 
 profile:
@@ -10,8 +10,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>L315</p>
+    <p>Science Park 123,1098 XG</p>
     <p>Amsterdam, The Netherlands</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
