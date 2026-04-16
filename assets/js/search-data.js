@@ -21,14 +21,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-started-my-m-sc-in-artificial-intelligence-at-universiteit-van-amsterdam",
           title: 'Started my M.Sc. in Artificial Intelligence at Universiteit van Amsterdam.',
           description: "",
@@ -40,6 +32,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-graduated-cum-laude-with-m-sc-in-artificial-intelligence-at-universiteit-van-amsterdam",
           title: 'Graduated cum laude with M.Sc. in Artificial Intelligence at Universiteit van Amsterdam..',
+          description: "",
+          section: "News",},{id: "news-started-phd-in-foundation-models-for-predictive-tabular-ml-at-the-trl-lab",
+          title: 'Started PhD in foundation models for predictive tabular ML at the TRL Lab....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
